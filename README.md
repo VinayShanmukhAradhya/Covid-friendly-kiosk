@@ -18,3 +18,17 @@ List of Tasks for the Kiosk:
 3. Display menu of selected restaurant
 4. Register the order
 5. Calculate and display the final cost with the items ordered
+
+Final outcomes and uncertainties:
+
+The project targets creating a hands-free way of ordering at a kiosk, minimizing the human touch, and eventually reducing the spread of diseases. After successful implementation, customers can conveniently navigate through a kiosk with the help of hand gestures and place their orders. For people who cannot speak or listen this system has the added advantage over other systems that rely on audio to exchange instructions.
+Despite the advancement in technologies and various optimizations, systems are susceptible to some risks. 
+The kiosk might find it hard to read signs in unfamiliar lighting conditions.
+There is a possibility the model confuses between similar hand signs.
+People with physical disabilities might not be able to mimic certain gestures and signs.
+
+Conclusion:
+
+This report has described a futuristic ordering system that eliminates the trade-off between hygiene and customer experience. The project caters to the demands for a touchless interface for ordering and also reuses existing infrastructure. The approach could be optimized to make a system that would be suitable for every individual.
+
+Background disturbance and clutter might affect the efficiency of the detections.
